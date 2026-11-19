@@ -60,7 +60,7 @@ Student-Portal/
 ### Step 1: Clone the Repository
 
 ```bash
-
+https://github.com/adipawar2621-cpu/STUDENT-PORTAL-.git
 ```
 
 ### Step 2: Open the Project Folder
